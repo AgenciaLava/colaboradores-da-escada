@@ -45,9 +45,9 @@ Considerando-se a formação e as diversas capacidades/conhecimentos dos compone
 
 ## Para os biólogos que são pais
 
-A criação de seus filhos é MUITO importante para o futuro de nosso pais. Acredito tanto nisso que venho estudando bastante para poder formar meu futuro filho ou filha com um bom caráter. Mas eu gostaria de ir além: ensinar através da prática! 
+A criação de seus filhos é MUITO importante para o futuro de nosso país. Acredito tanto nisso que venho estudando bastante para poder formar meu futuro filho ou filha, para que tenha um bom caráter, para que seja uma pessoa boa, de bem. Mas eu gostaria de ir além: quero ensinar através da prática! 
 
-Crianças não tem como trabalhar para ter dinheiro próprio. Mesmo que recebam uma mesada e doem esse dinheiro, o esforço de conseguir o dinheiro seria dos pais. Assim sendo, o importante é mostrar para as crianças que elas podem ajudar com o que tem: seu tempo e boa vontade! Mesmo que sejam pequenas, existe a possibilidade de ajudarem em coisas simples. Existe maneira mais simples e elegante para ensinar bons valores aos nossos filhos do que essa?
+Se meus filhos virem que eu ajudo outras pessoas, se me acompanham nesses momentos, aprendem com meu exemplo. Crianças não tem como trabalhar para ter dinheiro próprio. Mesmo que recebam uma mesada e doem esse dinheiro, o esforço de conseguir o dinheiro ainda assim seria dos pais. Assim sendo, o importante é mostrar para as crianças que elas podem ajudar com o que tem: seu tempo e boa vontade! Mesmo que sejam pequenas, existe a possibilidade de ajudarem em coisas simples. Existe maneira mais simples e elegante para ensinar bons valores aos nossos filhos do que essa?
 
 ## Metas
 
