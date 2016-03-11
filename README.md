@@ -1,2 +1,5 @@
-# colaboradores-da-escada
-Proposta de ação voluntária
+# Colaboradores da Escada
+
+##Proposta de ação voluntária
+
+A ideia por trás dessa proposta 
