@@ -42,6 +42,7 @@ Considerando-se a formação e as diversas capacidades/conhecimentos dos compone
     + Fotografia
     + Web development
     + Web design
+    + Educação Sexual
 
 ## Para os biólogos que são pais
 
