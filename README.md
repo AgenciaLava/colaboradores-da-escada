@@ -65,3 +65,9 @@ A priori, as metas dessa proposta são:
 ## Próximos passos
 
 Se você gostou da ideia, mesmo que parcialmente e quiser embarcar comigo nessa ousada proposta, entre em contato comigo (por email, whatsapp, telegram, twitter ou aqui mesmo no github). Assim, poderemos oficializar sua colaboração no projeto, planejar suas responsabilidades e decidir qual das propostas você prefere fazer parte.
+
+## Colaboradores Oficiais
+
+- Gledsley Müller
+- Olívia Mendonça-Furtado
+- Leonardo Maurici Borges  
