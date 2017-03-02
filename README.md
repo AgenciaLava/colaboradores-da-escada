@@ -30,11 +30,11 @@ Biólogos por formação, sabemos da situação delicada de nossa profissão em 
 
 Considerando-se a formação e as diversas capacidades/conhecimentos dos componentes desse grupo, algumas possíveis ideias surgiram em poucos momentos:
 
-- Website com materiais para professores
-- Material impresso para escolas públicas
-- Atividades digitais open source
-- Apps educativos
-- Curso de ciências para terceira idade
+- Website com materiais para professores (ideia)
+- Material impresso para escolas públicas (ideia)
+- Atividades digitais open source (em andamento)
+- Apps educativos (ideia)
+- Curso de ciências para terceira idade (ideia)
 - Oficinas gratuitas de:
     + Evolução
     + Botânica do cotidiano
@@ -43,7 +43,9 @@ Considerando-se a formação e as diversas capacidades/conhecimentos dos compone
     + Web development
     + Web design
     + Educação Sexual
-
+ - Podcast sobre ciências (em andamento)
+ - Blog sobre ciências (em andamento)
+ 
 ## Para os biólogos que são pais
 
 A criação de seus filhos é MUITO importante para o futuro de nosso país. Acredito tanto nisso que venho estudando bastante para poder formar meu futuro filho ou filha, para que tenha um bom caráter, para que seja uma pessoa boa, de bem. Mas eu gostaria de ir além: quero ensinar através da prática! 
@@ -61,7 +63,6 @@ A priori, as metas dessa proposta são:
 5. Praticar a cidadania de uma maneira diferente, além do voto
 6. Educar, através do exemplo, as nossas futuras gerações
 
-
 ## Próximos passos
 
 Se você gostou da ideia, mesmo que parcialmente e quiser embarcar comigo nessa ousada proposta, entre em contato comigo (por email, whatsapp, telegram, twitter ou aqui mesmo no github). Assim, poderemos oficializar sua colaboração no projeto, planejar suas responsabilidades e decidir qual das propostas você prefere fazer parte.
@@ -71,3 +72,7 @@ Se você gostou da ideia, mesmo que parcialmente e quiser embarcar comigo nessa 
 - Gledsley Müller
 - Olívia Mendonça-Furtado
 - Leonardo Maurici Borges  
+- Juliana Roscito
+- Leonardo Carneiro
+- Alex Hubbe
+- Vitor Hugo 
